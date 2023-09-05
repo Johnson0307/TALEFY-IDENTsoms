@@ -1,0 +1,44 @@
+body
+{
+  font-family: 'Special Elite', cursive;
+  background: #e36206c1;
+  text-align: center;
+  border: 30px solid #606060d7;
+}
+
+  .copy_right_footer {
+   position: fixed;
+   color: #ffffff;
+   bottom: 0;
+   width: 100%;
+   font-size: 15px;
+   text-align: center;
+   text-shadow: 5px 5px 5px rgb(151, 149, 149);
+   background-color: #0400ffc1;
+}
+
+  button 
+  {
+    border-radius: 20px;
+    font-size: 16px;
+    padding: 8px;
+    background-color: cyan;
+    font-weight: bold;
+  }
+
+  .main_div {
+    background-color: cyan;
+    margin-top: 50px;
+
+  }
+
+  p
+  {
+    font-size: medium;
+    font-weight: bold;
+  }
+
+  #result_confidence
+  {
+    font-size: 25px;
+  }
